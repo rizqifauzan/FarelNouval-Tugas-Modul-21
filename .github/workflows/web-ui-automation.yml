@@ -36,6 +36,6 @@ jobs:
 
     # Execute gradle command for running cucmber test
     - name: Execute Test
-      run: ./gradlew cucumber
+      run: ./gradlew test
 
 
